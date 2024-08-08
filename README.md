@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jbitaj
-- 👀 I’m interested in MachineLearning & DeepLearning
-- 🌱 I’m currently learning ImageProcessing
+- 👀 I’m interested in Machine Learning & Deep Learning
+- 🌱 I’m currently learning Image Processing
 - ⚡ Fun fact: Nothing!
 
 <!---
