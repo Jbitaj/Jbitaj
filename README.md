@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jbitaj  
+- 👋 Hi, I’m bita
 - 👀 I’m interested in Machine Learning, Deep Learning & Image Processing  
 - 🌱 I’m currently learning Advanced Deep Learning & Time Series Forecasting  
 - 💞️ I’m looking to collaborate on AI research, especially in Stock Market Prediction and Computer Vision  
