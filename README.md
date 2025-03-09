@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI research, especially in Stock Market Prediction and Computer Vision  
 - 📫 How to reach me: bitaamiri.1381@gmail.com
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love AI so much that I even admire ChatGPT! Also, I’m a big fan of *Prison Break* and Michael Scofield.  
+- ⚡ Fun fact: I love AI so much! Also, I’m a big fan of *Prison Break* and Michael Scofield.  
 
 
 <!---
